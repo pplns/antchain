@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="antchain:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="antchain.war">
+      <element id="artifact" artifact-name="antchain:war exploded" />
+    </root>
+  </artifact>
+</component>
